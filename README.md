@@ -3,7 +3,7 @@ React, Gatsby, Bootstrap
 
 ## About Project
 
-This Project is my portfolio website with Gatsby. Deployed to my domain sakarpoudel.com
+This Project is my portfolio website with Gatsby. Deployed to my domain xiaocheng0424.com
 
 ## Getting Started <a name = "getting_started"></a>
 
